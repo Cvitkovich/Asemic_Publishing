@@ -1,0 +1,19 @@
+{
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showDeprecated": false,
+    "editor.suggest.showEnumMembers": false,
+    "editor.suggest.showEnums": false,
+    "editor.suggest.showCustomcolors": false,
+    "editor.suggest.showConstructors": false,
+    "editor.suggest.showConstants": false,
+    "editor.suggest.showColors": false,
+    "editor.suggest.matchOnWordStartOnly": false,
+    "editor.suggest.localityBonus": false,
+    "editor.suggest.filterGraceful": false,
+    "editor.suggest.showEvents": false,
+    "editor.suggest.showFields": false,
+    "editor.suggest.showFiles": false,
+    "editor.suggest.showFolders": false,
+    "editor.suggest.showFunctions": false,
+    "editor.fontFamily": "Vulf Mono Code, Menlo, Monaco, 'Courier New', monospace"
+}

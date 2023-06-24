@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: centers;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  canvas {
+    display: block;
+  }
+
+  #title {
+    text-align: center;
+  }
